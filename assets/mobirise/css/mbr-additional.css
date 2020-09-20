@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
 
 
@@ -10,19 +10,19 @@ body {
 }
 .display-1 {
   font-family: 'Rubik', sans-serif;
-  font-size: 4.25rem;
+  font-size: 1.6rem;
   font-display: swap;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.8rem;
+  font-size: 2.56rem;
 }
 .display-2 {
   font-family: 'Roboto', sans-serif;
-  font-size: 2.8rem;
+  font-size: 3.6rem;
   font-display: swap;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4.48rem;
+  font-size: 5.76rem;
 }
 .display-4 {
   font-family: 'Rubik', sans-serif;
@@ -55,14 +55,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.4rem;
-    font-size: calc( 2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.28rem;
+    font-size: calc( 1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.24rem;
-    font-size: calc( 1.63rem + (2.8 - 1.63) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.63rem + (2.8 - 1.63) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.88rem;
+    font-size: calc( 1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -1351,9 +1351,11 @@ section.lazy-placeholder:after {
 }
 .cid-satWE74DfV H2 {
   text-align: center;
+  color: #f9f295;
 }
 .cid-satWE74DfV P {
   text-align: center;
+  color: #ffffff;
 }
 .cid-satX0kcv7Q {
   padding-top: 90px;
@@ -1437,10 +1439,10 @@ section.lazy-placeholder:after {
   opacity: 1;
 }
 .cid-satX0kcv7Q .mbr-section-title {
-  color: #7f1933;
+  color: #ffffff;
 }
 .cid-satX0kcv7Q .mbr-section-subtitle {
-  color: #7f1933;
+  color: #232323;
 }
 .cid-satWXo12lx {
   padding-top: 90px;
