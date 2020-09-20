@@ -957,7 +957,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-satWB37CX8 .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 5.4rem);
   }
 }
 .cid-satWB37CX8 .collapsed button.navbar-toggler {
